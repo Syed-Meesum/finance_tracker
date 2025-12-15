@@ -1,6 +1,4 @@
 fastapi
 uvicorn
 python-dotenv
-numpy
-sentence-transformers
 cohere
